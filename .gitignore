@@ -94,3 +94,4 @@ Temporary Items
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,c++,visualstudiocode
+to_be_ignore.txt
